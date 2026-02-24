@@ -17,6 +17,9 @@ Proyek ini adalah aplikasi web berbasis Python Flask yang dirancang untuk mendem
 ## 🔧 Cara Menjalankan Secara Lokal (Docker)
 Pastikan Anda memiliki Docker terinstal, kemudian jalankan:
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf77238c-b98f-4ca7-9dd9-a8662c012ea7" />
+
+
 1. **Build Image:**
    ```bash
    docker build -t devops-project .
